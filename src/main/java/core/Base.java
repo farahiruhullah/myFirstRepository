@@ -78,8 +78,8 @@ public class Base {
 	 * This method will close all opened browsers once it is called
 	 */
 	public static void tearDown() {
-		driver.close();
-		driver.quit();
+		//driver.close();
+		//driver.quit();
 	}
 
 	/**
